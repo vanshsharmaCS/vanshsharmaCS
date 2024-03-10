@@ -18,3 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshsharmacs&show_icons=true&locale=en" alt="vanshsharmacs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshsharmacs&" alt="vanshsharmacs" /></p>
+
+
+![Snake animation](https://github.com/vanshsharmaCS/vanshsharmaCS/blob/output/github-contribution-grid-snake-dark.svg)
+
