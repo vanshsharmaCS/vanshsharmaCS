@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vansh Sharma</h1>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+🔭 I’m currently working on ForgeNet-Labs<br><br>🌱 I’m currently learning Next js, Node js and TypeScript<br>
+
+<br>👨‍💻 All of my projects are available at https://github.com/vanshsharmaCS<br><br>📝 I regularly solving problems on https://leetcode.com/zephyrus17/<br><br>💬 Ask me about Javascript, React, Gsap and C++<br><br>📫 How to reach me vanshsharma7748@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/vansh-sharma-2954a2246/
 
 - ⚡ I Talk in </>
 
